@@ -32,20 +32,22 @@ Este guia será focado em:
 
 A certificação é o papel, mas o diferencial aqui é o olhar clínico sobre a ferramenta. Se você quer apenas decorar tabelas, a Microsoft Learn tem um bom conteúdo. Se quer entender, passe a ver os conceitos como algo que você irá precisar. Exemplo: "Por que preciso da nuvem?", talvez você não precise em projetos pequenos, mas comece a pensar em empresa. A minha empresa SolutionsJai precisa da nuvem porque o custo inicial de ter infraestrutura dentro do meu quintal sairia muito caro, então eu alugo os serviços da nuvem para que o provedor me de a potencia para eu ter escalabilidade, baixa latência, agilidade e elastidade para minhas aplicações e diversos outros serviços de computação. 
 
-<details>
-<summary><b>📂 Guia de navegação Microsoft Certified: Azure Fundamentals (AZ-900)</b></summary>
-
-###  Esqueleto de pastas
-O conteúdo está organizado para cobrir o conteúdo da certificação
-
-* **`01-guia-estudo/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem.
-* **`02-conceitos-cloud/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem. Detalhamento sobre a infraestrutura global da Microsoft (Regiões, Zonas de Disponibilidade), Grupos de Recursos e gerenciamento.
-* **`03-Azure-services/`**: Falando de serviços mais importantes
-* **`04-dev-essentials/`**: Ferramentas e dicas 
-
----
-👉 **[Acessar a Pasta Completa da AZ-900](./AZURE/[AZ-900]%20Guia-de-Estudo-AZ-900/)**
-</details>
+> [!IMPORTANT]
+> 
+> <details>
+> <summary><b>📂 Guia de navegação Microsoft Certified: Azure Fundamentals (AZ-900)</b></summary>
+>
+> ###  Esqueleto de pastas
+> O conteúdo está organizado para cobrir o conteúdo da certificação
+>
+> * **`01-guia-estudo/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem.
+> * **`02-conceitos-cloud/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem. > > Detalhamento sobre a infraestrutura global da Microsoft (Regiões, Zonas de Disponibilidade), Grupos de Recursos e gerenciamento.
+> * **`03-Azure-services/`**: Falando de serviços mais importantes
+> * **`04-dev-essentials/`**: Ferramentas e dicas 
+>
+> ---
+> 👉 **[Acessar a Pasta Completa da AZ-900](./AZURE/[AZ-900]%20Guia-de-Estudo-AZ-900/)**
+> </details>
 
 
 
