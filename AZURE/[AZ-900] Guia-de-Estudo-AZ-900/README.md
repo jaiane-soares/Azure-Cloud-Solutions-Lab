@@ -12,6 +12,10 @@ A Microsoft consolidou o Azure como uma das nuvens mais robustas e confiáveis d
 
 ### 🎯 Por que este guia?
 
-> Estou estudando cloud, e pretendo realizar a certificação. Mas também gostaria de facilitar os estudos para outras pessoas, que acham - assim como eu achava - que certificações são um montro de 11 cabeças. Elas podem ser se vocês estudarem apenas com o intuito de obter um selo no currículo. Por isso, pensem nesse estudo para você do futuro. A computação em nuvem é fundamental e não vai sumir, apenas vai evoluir, saber sobre técnologia é muito melhor que um selo. Mas tudo bem, sei que esse selo é importante para as oportunidades, mas nada vale se você esquecer tudo que decorou para uma avaliação. Estudo ativo, galera!! 
+> Estou estudando cloud, e pretendo realizar a certificação. Mas também gostaria de facilitar os estudos para outras pessoas, que acham - assim como eu achava - que certificações são um montro de 11 cabeças. Elas podem ser se vocês estudarem apenas com o intuito de obter um selo no currículo. Por isso, pensem nesse estudo para você do futuro. A computação em nuvem é fundamental e não vai sumir, apenas vai evoluir, saber sobre técnologia é muito melhor que um selo. Mas tudo bem, sei que esse selo é importante para as oportunidades, mas nada vale se você esquecer tudo que decorou para uma avaliação. Estudo ativo, galera!!
+
+
+ [Próximo: 01. guia-estudo ➡️](../01.guia-estudo/README.md)
+
 
 
