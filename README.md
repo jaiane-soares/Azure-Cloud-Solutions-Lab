@@ -22,7 +22,7 @@ Aqui, os serviços da Microsoft não são apenas ferramentas corporativas; são 
 
 > **Status:** Em desenvolvimento
 
-Em breve, este repositório contará com um guia de estudos focado na certificação **Microsoft Azure Fundamentals (AZ-900)**. Mas não espere um resumo genérico ou um amontoado de nomes decorados. É baseado em conceitos principais da nuvem, mas não apenas para passar em uma certificação e ter o selinho. Você precisa entender a nuvem.
+Em breve, este repositório contará com um guia de estudos focado na certificação **Microsoft Azure Fundamentals (AZ-900)**. Mas não espere um resumo genérico ou vários nomes decorados. É baseado em conceitos principais da nuvem, mas não apenas para passar em uma certificação e ter o selinho. Você precisa entender a nuvem.
 
 Este guia será focado em:
 
