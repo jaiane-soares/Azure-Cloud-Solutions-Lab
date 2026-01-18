@@ -37,6 +37,22 @@ Um manual sobre sobreviver à  um apocalipse zumbi na nuvem (interface do Azure)
 Neste experimento, coloquei o **Azure Video Indexer** em um liquidificador cultural. De um lado, o caos vibrante de *Looney Tunes* (Patolino); do outro, a densidade artistica e silenciosa de *Retrato de uma Mulher em Chamas*. 
 * **A análise:** Uma documentação sobre como a IA é treinada para o ruído e o caricato, mas permanece analfabeta para o silêncio. O algoritmo reconhece a euforia de um pato com calça de shopping em segundos, mas falha em indexar o desejo velado em palavras não ditas ou o luto em um adeus. Spoiler: o Azure prefere o Patolino, eu prefiro chorar com dramas sáficos e me traumatizar com a sétima arte.
 
+### 5. `[AZ-900] Guia de Estudo AZ-900: Resumos e dicas`
+
+> **Status:** Em desenvolvimento
+
+Em breve, este repositório contará com um guia de estudos focado na certificação **Microsoft Azure Fundamentals (AZ-900)**. Mas não espere um resumo genérico ou um amontoado de nomes decorados. É baseado em conceitos principais da nuvem, mas não apenas para passar em uma certificação e ter o selinho. Você precisa entender a nuvem.
+
+Este guia será focado em:
+
+* **Resumos de estudo;** 
+* **Dicas e materiais** 
+
+
+A certificação é o papel, mas o diferencial aqui é o olhar clínico sobre a ferramenta. Se você quer apenas decorar tabelas, a Microsoft Learn tem um bom conteúdo. Se quer entender, passe a ver os conceitos como algo que você irá precisar. Exemplo: "Por que preciso da nuvem?", talvez você não precise em projetos pequenos, mas comece a pensar em empresa. A minha empresa SolutionsJai precisa da nuvem porque o custo inicial de ter infraestrutura dentro do meu quintal sairia muito caro, então eu alugo os serviços da nuvem para que o provedor me de a potencia para eu ter escalabilidade, baixa latência, agilidade e elastidade para minhas aplicações e diversos outros serviços de computação. 
+
+
+
 ---
 
  
