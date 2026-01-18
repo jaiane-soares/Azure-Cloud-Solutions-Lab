@@ -17,6 +17,15 @@ A Microsoft consolidou o Azure como uma das nuvens mais robustas e confiáveis d
 
  [Próximo: 01. Guia de estudo ➡️](../01.guia-estudo/README.md)
 
+ <div align="center">
+
+<a href="./01.guia-estudo/README.md">
+  <img src="https://img.shields.io/badge/ACESSAR_GUIA-CLIQUE_AQUI-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</div>
+
+
 
 
 
