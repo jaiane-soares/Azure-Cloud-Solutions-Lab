@@ -1,6 +1,6 @@
 #  O Grito e o silêncio: Patolino vs. Heloïse (ou: Por que a IA não tem coração)
 
-> **O Experimento:** Coloquei o **Azure Video Indexer** para analisar dois extremos do espectro sensorial: a euforia caótica de *Patolino* e a densidade silenciosa de *Retrato de uma Mulher em Chamas*. Spoiler: o algoritmo se divertiu com o pato, mas ficou apático com o drama sáfico.
+> **O experimento:** Coloquei o **Azure Video Indexer** para analisar dois extremos do espectro sensorial: a euforia caótica de *Patolino* e a densidade silenciosa de *Retrato de uma Mulher em Chamas*. Spoiler: o algoritmo se divertiu com o pato, mas ficou apático com o drama sáfico.
 
 ---
 
@@ -67,6 +67,7 @@ A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar. Onde há o silêncio, há a poesia do adeus e a melancolia da memória. Mas quem sabe eu não possa ensinar as IAs a serem sensiveis assim? rs
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
 
 
