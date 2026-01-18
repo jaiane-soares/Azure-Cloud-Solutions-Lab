@@ -45,8 +45,8 @@ Aqui é onde o parquinho do Azure pega fogo. Ao rodar o extrator de **PII**, a I
 
 A ironia técnica é deliciosa, mas o perigo é real. Como podemos falar em conformidade e segurança se o serviço de "Informações Identificativas" da nuvem mais usada do mundo ignora o principal documento de identificação do Brasil?
 
-* **O Risco:** Se uma empresa confia cegamente no PII do Azure para limpar logs ou anonimizar dados, ela está deixando CPFs e RGs vazarem livremente enquanto protege o seguro social de gringos que nem moram aqui.
-* **A Falha de soberania:** A IA é treinada para o "Norte global". Se o seu dado não está no mapeamento oficial de Seattle, você é tecnicamente invisível para a segurança da plataforma.
+* **O risco:** Se uma empresa confia cegamente no PII do Azure para limpar logs ou anonimizar dados, ela está deixando CPFs e RGs vazarem livremente enquanto protege o seguro social de gringos que nem moram aqui.
+* **A falha de soberania:** A IA é treinada para o "Norte global". Se o seu dado não está no mapeamento oficial de Seattle, você é tecnicamente invisível para a segurança da plataforma.
 
 
 # 💸 O preço da amnésia:
@@ -77,12 +77,27 @@ Agora faz a conta comigo:
 Quem paga a conta no final? Eu garanto que não é o estagiário — embora ele vá pagar sendo demitido roro
 
 No fim, se o tratamento dos dados foi feito com ferramentas de cloud ou não, a conta vai ser a mesma. Por isso, vamos tratar os dados com carinho!!
+
+
+
+## Como usariamos, então?
+
+SDK do Azure AI Language. É importante entender que essas ferramentas fazem parte de um Softare Development Kit do Azure, separadamente o PII infelizmente não tem suporte para entidades aqui no Brasil. 
+
+![link]()
+
+Porém, com o SDK podemos integrar no código Java uma aplicação que consiga ler os documentos com o Documment Intelligence e extrair dados estruturados, o NER para analisar o texto livre e identificar entidades como "Pessoa" e "Numero" que o PII deixou passar. Logo depois, usariamos o resultado do NER para fazer o mascaramento manual dos dados.
+
+
+
+
 ## 🧪 Conclusão do caso
 O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistência prova que a inteligência artificial, por mais "inteligente" que pareça, ainda precisa de um olhar humano (e brasileiro) para não virar um pesadelo.
 
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
 
