@@ -2,6 +2,9 @@
 
 > **O experimento:** Coloquei o **Azure Video Indexer** para analisar dois extremos do espectro sensorial: a euforia caótica de *Patolino* e a densidade silenciosa de *Retrato de uma Mulher em Chamas*. Spoiler: o algoritmo se divertiu com o pato, mas ficou apático com o drama sáfico.
 
+
+E é claro que essas ferramentas são feitas para o meio empresarial e talvez seja péssima para outras coisas, mas por isso mesmo que testei kkk
+
 ---
 
 ## 📸 Prova A: A eficiência do óbvio (Patolino)
@@ -67,6 +70,7 @@ A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar. Onde há o silêncio, há a poesia do adeus e a melancolia da memória. Mas quem sabe eu não possa ensinar as IAs a serem sensiveis assim? rs
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
 
 
