@@ -37,7 +37,7 @@ Um manual sobre sobreviver à  um apocalipse zumbi na nuvem (interface do Azure)
 Neste experimento, coloquei o **Azure Video Indexer** em um liquidificador cultural. De um lado, o caos vibrante de *Looney Tunes* (Patolino); do outro, a densidade artistica e silenciosa de *Retrato de uma Mulher em Chamas*. 
 * **A análise:** Uma documentação sobre como a IA é treinada para o ruído e o caricato, mas permanece analfabeta para o silêncio. O algoritmo reconhece a euforia de um pato com calça de shopping em segundos, mas falha em indexar o desejo velado em palavras não ditas ou o luto em um adeus. Spoiler: o Azure prefere o Patolino, eu prefiro chorar com dramas sáficos e me traumatizar com a sétima arte.
 
-### 5. `[AZ-900] Guia de Estudo AZ-900: Resumos e dicas`
+### 5. `[AZ-900] Guia-de-Estudo-AZ-900: Resumos e dicas`
 
 > **Status:** Em desenvolvimento
 
