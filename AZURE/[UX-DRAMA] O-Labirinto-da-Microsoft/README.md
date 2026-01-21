@@ -75,13 +75,13 @@ Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema 
 > O **Azure AI Foundry** (nosso antigo e nada simples AI Studio) é o novo "queridinho" da Microsoft. Ele promete facilitar a vida, mas a verdade é que ele é um ecossistema de dependências infinitas.
 
 **A "mágica" do faturamento:**
-Quando você clica em "Criar projeto", a Microsoft faz uma mágica digna de truques de mestres. Sem você perceber, ela cria:
+Quando você clica em "criar projeto", a Microsoft faz uma mágica digna de truques de mestres. Sem você perceber, ela cria:
 * **Azure AI Services:** A boneca principal (o cérebro).
 * **AI Search:** A bonequinha do lado que decide que precisa de um índice caro para funcionar.
 * **Storage Accounts:** Para guardar os logs que ninguém vai ler.
 * **Key Vaults:** Para esconder os segredos que você vai esquecer de copiar .
 
-> No final, você queria apenas testar um prompt e acabou de montar uma infraestrutura digna de uma multinacional — e a sua grana vai indo embora enquanto você tenta entender qual dessas bonecas está sugando o seu crédito. 💸 essa Microsoft é espertinha rsrs
+> No final, você queria apenas testar um prompt e acabou de montar uma infraestrutura digna de uma multinacional — e a sua grana vai indo embora enquanto você tenta entender qual dessas bonecas está sugando o seu crédito. 💸 Essa Microsoft é espertinha rsrs
 
 ## 🧪 Conclusão: "Não é você, sou eu (e minha saúde mental)"
 
@@ -91,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
