@@ -15,7 +15,7 @@
 
 
 
-## Espaço de Resumos (não reparem tanto)
+## Espaço de resumos (não reparem tanto)
 
  
 <details>
@@ -24,13 +24,13 @@
 
 [conceitos básicos]
 
-![Imagem](link)
+![Imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/conceitos.jpeg)
 
 #
 
 [Tipos de serviço]
 
-![imagem](link)
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/redes.jpeg)
 
 #
 
@@ -42,7 +42,7 @@
 
 [Redes]
 
-![imagem](link)
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/redes.jpeg)
 
 
 </details>
@@ -57,6 +57,7 @@
   <a href="../README.md">📚 Índice AZ-900</a> | 
   <a href="../../../README.md">🏠 Home </a>
 </p>
+
 
 
 
