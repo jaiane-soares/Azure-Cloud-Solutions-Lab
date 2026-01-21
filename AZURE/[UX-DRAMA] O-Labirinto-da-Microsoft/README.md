@@ -50,7 +50,7 @@ Você entra no Portal e, de repente, é transportado para um universo paralelo:
 Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema de segurança mais sofisticado do planeta. 
 
 * **Estratégia:** O hacker invade o sistema, mas fica tão confuso com o "Loading" eterno e a burocracia de menus que desiste da vida de crime e vai vender arte na praia.
-* **Realidade:** Se eu, que sou a dona da conta, não acho o botão de "Salvar" que mudou de lugar na última atualização, o invasor também não vai achar o de "Vazar Dados". É a paz através do caos absoluto. 
+* **Realidade:** Se eu, que sou a dona da conta, não acho o botão de "salvar" que mudou de lugar na última atualização(eles tem uma equipe apenas para atualizar nomes de recursos e serviços a cada ano), o invasor também não vai achar o de "Vazar Dados". É a paz através do caos absoluto. 
 
 ---
 
@@ -91,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
