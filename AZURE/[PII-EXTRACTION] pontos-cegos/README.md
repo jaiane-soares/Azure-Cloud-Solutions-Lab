@@ -2,7 +2,7 @@
 
 > **Status do experimento:** Concluído com sucesso (e uma leve indignação de uma boa patriota).
 
-Neste módulo do laboratório, decidi testar os limites do **Azure AI Language**. O objetivo era simples: verificar se a IA é realmente o guardião da privacidade que a LGPD exige ou se ela só tirou o visto para o Hemisfério Norte.
+Neste módulo do laboratório, decidi testar os limites do **Azure AI Language**. O objetivo era simples: verificar se a IA é realmente o guardião da privacidade que a LGPD exige ou se ela só tirou o visto para o hemisfério norte.
 
 ---
 
@@ -97,6 +97,7 @@ O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistênc
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
 
