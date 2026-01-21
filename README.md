@@ -40,9 +40,8 @@ A certificação é o papel, mas o diferencial aqui é o olhar clínico sobre a 
 > ###  Esqueleto de pastas
 > O conteúdo está organizado para cobrir o conteúdo da certificação
 >
-> * **`01-guia-estudo/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem.
-> * **`02-conceitos-cloud/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem. > > Detalhamento sobre a infraestrutura global da Microsoft (Regiões, Zonas de Disponibilidade), Grupos de Recursos e gerenciamento.
-> * **`03-Azure-services/`**: Falando de serviços mais importantes
+> * **`01-guia-estudo/`**: Guia de estudo e materiais que utilizei
+> * **`02-conceitos-cloud/`**: Exploração sobre IaaS, PaaS, SaaS, economia de nuvem (CapEx vs. OpEx) e os benefícios da computação em nuvem. > >  * **`03-Azure-services/`**: Falando de serviços mais importantes
 > * **`04-dev-essentials/`**: Ferramentas e dicas 
 >
 > ---
