@@ -22,6 +22,12 @@
 <summary><b>📂 Resumos </b></summary>
 
 
+[Blob Storage]
+
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/blob.jpeg)
+
+#
+
 [conceitos básicos]
 
 ![Imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/conceitos.jpeg)
@@ -30,13 +36,8 @@
 
 [Tipos de serviço]
 
-![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/redes.jpeg)
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/04.Dev-essentials/tipos%20de%20servi%C3%A7o.jpeg)
 
-#
-
-[Blob Storage]
-
-![imagem](link)
 
 #
 
@@ -57,6 +58,7 @@
   <a href="../README.md">📚 Índice AZ-900</a> | 
   <a href="../../../README.md">🏠 Home </a>
 </p>
+
 
 
 
