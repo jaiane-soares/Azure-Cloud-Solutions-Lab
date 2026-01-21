@@ -14,12 +14,50 @@
 
 
 
+
+## Espaço de Resumos (não reparem tanto)
+
+ 
+<details>
+<summary><b>📂 Resumos </b></summary>
+
+
+[conceitos básicos]
+
+![Imagem](link)
+
+#
+
+[Tipos de serviço]
+
+![imagem](link)
+
+#
+
+[Blob Storage]
+
+![imagem](link)
+
+#
+
+[Redes]
+
+![imagem](link)
+
+
+</details>
+
+
+
+
+
 ---
 <p align="center">
   <a href="../03.azure-services/README.md">⬅️ Anterior</a> | 
   <a href="../README.md">📚 Índice AZ-900</a> | 
   <a href="../../../README.md">🏠 Home </a>
 </p>
+
 
 
 
