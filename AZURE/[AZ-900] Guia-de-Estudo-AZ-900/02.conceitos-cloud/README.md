@@ -43,7 +43,7 @@ Dimensionamento horizontal é a capacidade de reduzir ou aumentar unidades de re
 
 ## descrever os tipos de serviço em nuvem:
 
-`IaaS - Infrastructor as a service (infraestrutura como serviço):`
+### IaaS - Infrastructor as a service (infraestrutura como serviço):
 
 O provedor entrega recursos de computação virtualizados (Compute, Storage, Networking) via um Hipervisor.
 
@@ -51,7 +51,9 @@ O provedor entrega recursos de computação virtualizados (Compute, Storage, Net
 
 `Resumo:` O cliente gerencia a VM.
 
-## PaaS - Plataform as a Service (plataforma como serviço):
+#
+
+### PaaS - Plataform as a Service (plataforma como serviço):
 
 O provedor abstrai o SO e o Runtime. Ele te entrega um ambiente de execução pronto.
 
@@ -59,7 +61,9 @@ O provedor abstrai o SO e o Runtime. Ele te entrega um ambiente de execução pr
 
 `Resumo:` Você desenvolvendo seu código. Azure Apps Service.
 
-## SaaS - Software as a Service (Software como serviço):
+#
+
+### SaaS - Software as a Service (Software como serviço):
 
 Entrega de uma aplicação completa via web. Toda a stack (Infra, SO, Runtime, código e banco de Dados) é gerenciada pelo provedor.
 
@@ -69,6 +73,8 @@ Entrega de uma aplicação completa via web. Toda a stack (Infra, SO, Runtime, c
 
 # Modelo de responsabilidade compartilhada (Cloud Computing)
 
+<div align="center">
+  
 | Camada de tecnologia | IaaS (Infraestrutura) | PaaS (Plataforma) | SaaS (Software) |
 | :--- | :--- | :--- | :--- |
 | **Aplicação** | Cliente | Cliente | Provedor |
@@ -78,13 +84,18 @@ Entrega de uma aplicação completa via web. Toda a stack (Infra, SO, Runtime, c
 | **Sistema Operacional** | Cliente | Provedor | Provedor |
 | **Virtualização (Hypervisor)** | Provedor | Provedor | Provedor |
 | **Hardware (Servidor/Rede)** | Provedor | Provedor | Provedor |
+</div>
 
+---
 
-![imagem]()
+## Imagem extraida do site da Microsoft Learn: 
+
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/02.conceitos-cloud/responsabilidades.png)
 
 
 
 ---
 [⬅️ Anterior](../01.guia-estudo/README.md) | [🏠 Home](../../../README.md) | [Próximo: 03. Azure Services ➡️](../03.Azure-services/README.md)
+
 
 
