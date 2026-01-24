@@ -58,7 +58,7 @@ Vamos falar de valores reais, porque compliance não se faz com sorrisos:
 * **Dano à imagem:** Imagine explicar para o Board que os dados vazaram porque a IA "só falava inglês". O custo de perda de mercado é imensurável.
 * **Inexistência de soberania brasileira:** Depender de um modelo treinado em Seattle para proteger um cidadão em SP é um risco estratégico que nenhuma empresa séria deveria correr.
 
-# A Real 😈:
+# A real 😈:
 
 A real é que um vazamento de dados pode destruir empresas pequenas e apenas arranhar as grandonas. E nem vou entrar a fundo na reputação, porque aí ambas terão "probleminhas" de imagem que nenhum marketing resolve.
 
@@ -82,9 +82,9 @@ No fim, se o tratamento dos dados foi feito com ferramentas de cloud ou não, a 
 
 ## Como usariamos, então?
 
-SDK do Azure AI Language. É importante entender que essas ferramentas fazem parte de um Softare Development Kit do Azure, separadamente o PII infelizmente não tem suporte para entidades aqui no Brasil. 
+SDK do Azure AI Language. É importante entender que essas ferramentas fazem parte de um Softare Development Kit do Azure, separadamente o PII infelizmente não tem suporte para entidades aqui no Brasil. O que é bem estranho, pois na documentação consta ter...
 
-![link]()
+![link](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/personally-identifiable-information/concepts/entity-categories#type-brazil-cpf-number)
 
 Porém, com o SDK podemos integrar no código Java uma aplicação que consiga ler os documentos com o Documment Intelligence e extrair dados estruturados, o NER para analisar o texto livre e identificar entidades como "Pessoa" e "Numero" que o PII deixou passar. Logo depois, usariamos o resultado do NER para fazer o mascaramento manual dos dados.
 
@@ -96,11 +96,12 @@ O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistênc
 
 
 <p align="center">
-  <a href="../../../README.md">🏠 Home </a>
+  <a href="../../README.md">🏠 Home </a>
 </p>
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
 
