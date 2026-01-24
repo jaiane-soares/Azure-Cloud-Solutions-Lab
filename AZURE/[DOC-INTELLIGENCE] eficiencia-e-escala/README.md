@@ -78,11 +78,12 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 <p align="center">
-  <a href="../../../README.md">🏠 Home </a>
+  <a href="../../README.md">🏠 Home </a>
 </p>
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
 
