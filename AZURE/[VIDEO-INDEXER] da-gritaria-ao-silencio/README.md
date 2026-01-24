@@ -68,8 +68,17 @@ Ao transcrever a frase *"I saw her one last time"*, a IA faz uma análise sintá
 A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O Azure é um excelente bibliotecário, mas seria um péssimo crítico de cinema. E eu sou ótima nisso rs
 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar. Onde há o silêncio, há a poesia do adeus e a melancolia da memória. Mas quem sabe eu não possa ensinar as IAs a serem sensiveis assim? rs
+
+
+
+
+<p align="center">
+  <a href="../../README.md">🏠 Home </a>
+</p>
+
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
 
 
