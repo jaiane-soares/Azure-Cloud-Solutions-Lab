@@ -32,14 +32,14 @@ O Document Intelligence não é um OCR comum; ele é uma engine de **visão comp
 ---
 
 
-##  Impacto: O fim da digitação manual
+##  O fim da digitação manual
 A implementação desta tecnologia foca em dois pilares críticos para qualquer empresa:
 1. **Redução drástica de tempo:** Processos que levavam minutos de conferência manual passam a ser executados em segundos.
 2. **Mitigação de erro humano:** A IA elimina a falha de digitação, garantindo que o dado que entra no banco de dados seja exatamente o que está no papel.
 
 ---
 
-## 🛠️ Exemplo de fluxo com Java SDK (Teoria técnica)
+## 🛠️ Exemplo de fluxo com Java SDK (teoria)
 Para integrar essa potência no ecossistema **Java**, seguimos uma arquitetura limpa:
 
 1. **Client orchestration:** Instanciamos um `DocumentAnalysisClient` usando as credenciais de nuvem.
@@ -78,6 +78,7 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
 
