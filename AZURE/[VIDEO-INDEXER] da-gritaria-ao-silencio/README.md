@@ -12,7 +12,7 @@ O Azure brilha no ruído. Ele indexou cada grito e cada plano mirabolante do Pat
 
 ![Azure Indexando Patolino](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BVIDEO-INDEXER%5D%20da-gritaria-ao-silencio/patolino1.png)
 
-*Legenda: O Azure claramente é uma criança mimada que ama o patolino*
+*Legenda: O Azure claramente é uma criança mimada que ama o Patolino*
 
 ![Azure Indexando Patolino](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BVIDEO-INDEXER%5D%20da-gritaria-ao-silencio/patolino2.png)
 
@@ -70,6 +70,7 @@ A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar. Onde há o silêncio, há a poesia do adeus e a melancolia da memória. Mas quem sabe eu não possa ensinar as IAs a serem sensiveis assim? rs
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
 
 
