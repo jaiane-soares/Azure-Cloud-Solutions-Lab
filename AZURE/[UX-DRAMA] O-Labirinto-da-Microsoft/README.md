@@ -27,7 +27,7 @@ Fiz uma pesquisa técnica rigorosa (três minutos no Google) para saber o que as
 ---
 <div align= "center">
 
-## O Nuvem-verso do Entra ID: Onde a esperança morre
+## O nuvem-verso do Entra ID: Onde a esperança morre
 
 
   </div>
@@ -91,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
