@@ -89,8 +89,16 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 > **Veredito:** Obrigada por tudo, Azure!! Estou dormindo pensando em você, comendo pensando em você (literalmente, porque não tive tempo de fazer meu bolinho da tarde tentando achar um recurso), mas precisamos de um tempo. Minha sanidade não é escalável como seus servidores.
 
+
+
+<p align="center">
+  <a href="../../README.md">🏠 Home </a>
+</p>
+
+
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
