@@ -49,7 +49,7 @@ Para integrar essa potência no ecossistema **Java**, seguimos uma arquitetura l
 
 ---
 
-## 🏥 Caso de uso real: Automação de onboarding em massa (RH Tech)
+##  Caso de uso real: Automação de onboarding em massa (RH Tech)
 
 ### 🚩 O problema 
 Grandes empresas de logística e indústria enfrentam um problema crítico na contratação: o **onboarding documental**. 
@@ -66,7 +66,7 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 3. **Validação automática:** O sistema Java cruza o CPF extraído com a base da Receita Federal.
 4. **Persistência segura:** Os dados estruturados são enviados diretamente para o **Azure Cosmos DB**, enquanto a imagem original é movida para um storage criptografado, reduzindo o tempo de exposição de dados sensíveis README.md].
 
-### 🚀 Resultados esperados
+###  Resultados esperados
 * **Velocidade:** Redução do tempo de cadastro de 10 minutos para **5 segundos** por candidato.
 * **Conformidade:** Implementação de mascaramento automático de dados (PII) assim que o dado é validado, garantindo que o RH veja apenas o necessário para a contratação README.md].
 * **Escalabilidade:** Capacidade de processar 1.000 contratações simultâneas sem aumentar o número de pessoas no setor administrativo.
@@ -78,6 +78,7 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
 
