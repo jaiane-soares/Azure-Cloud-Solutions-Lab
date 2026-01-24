@@ -74,10 +74,16 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 ---
 
 
-> **Veredito da gata engenheira:** Não estamos apenas lendo papel; estamos eliminando o erro humano de um processo crítico para a vida do trabalhador e para o lucro da empresa. 
+> **Veredito da gata engenheira:** Não estamos apenas lendo papel; estamos eliminando o erro humano de um processo crítico para a vida do trabalhador e para o lucro da empresa.
+
+
+<p align="center">
+  <a href="../../../README.md">🏠 Home </a>
+</p>
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
 
