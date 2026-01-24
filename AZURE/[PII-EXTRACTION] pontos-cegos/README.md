@@ -95,8 +95,13 @@ Porém, com o SDK podemos integrar no código Java uma aplicação que consiga l
 O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistência prova que a inteligência artificial, por mais "inteligente" que pareça, ainda precisa de um olhar humano (e brasileiro) para não virar um pesadelo.
 
 
+<p align="center">
+  <a href="../../../README.md">🏠 Home </a>
+</p>
+
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
 
