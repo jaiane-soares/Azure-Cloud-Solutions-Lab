@@ -89,7 +89,7 @@ Neste experimento, coloquei o **Azure Video Indexer** em um liquidificador cultu
 ## 🛠️ Conclusão técnica
 Este laboratório me ensinou que a IA é uma ferramenta poderosa, mas que o olhar humano é insubstituível. O Azure pode processar petabytes de dados, mas a interpretação do "invisível" — seja uma falha de segurança no CPF ou um sentimento não indexado — ainda é uma exclusividade nossa.
 
-**Bem-vindos ao meu laboratório. Onde a eficiência corporativa encontra a minha inquietude artística e um pouco do meu lado engraçadinho e criativo.**
+**Bem-vindos ao meu laboratório. Onde a eficiência corporativa encontra a minha inquietude artística e um pouco do meu lado engraçadinho e criativo. Se tiver ficado curto, é porque não falei do Entra ID rsrs**
 
 ---
 *Desenvolvido com café, curiosidade e um pouquinho de veneno artístico por [Jaiane/JaiDev-bot].*
