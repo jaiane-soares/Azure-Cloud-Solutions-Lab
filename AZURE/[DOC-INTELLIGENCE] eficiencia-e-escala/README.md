@@ -44,8 +44,8 @@ Para integrar essa potência no ecossistema **Java**, seguimos uma arquitetura l
 
 1. **Client orchestration:** Instanciamos um `DocumentAnalysisClient` usando as credenciais de nuvem.
 2. **Streaming de documentos:** O arquivo (PDF ou Imagem) é enviado via SDK para processamento assíncrono na Azure.
-3. **Extração cirúrgica:** Em vez de receber um texto bruto, o SDK nos devolve objetos tipados. Podemos pedir especificamente o `DocumentNumber` ou `ExpiryDate`.
-4. **Filtro de confiança:** O sistema intercepta o `Confidence Score`. Se a IA tiver menos de 80% de certeza, o código sinaliza para uma revisão humana, garantindo segurança jurídica.
+3. **Extração: ** Em vez de receber um texto bruto, o SDK nos devolve objetos tipados. Podemos pedir especificamente o `DocumentNumber` ou `ExpiryDate`.
+4. **Filtro:** O sistema intercepta o `Confidence Score`. Se a IA tiver menos de 80% de certeza, o código sinaliza para uma revisão humana, garantindo segurança jurídica.
 
 ---
 
@@ -55,7 +55,7 @@ Para integrar essa potência no ecossistema **Java**, seguimos uma arquitetura l
 Grandes empresas de logística e indústria enfrentam um problema crítico na contratação: o **onboarding documental**. 
 * **Processo manual:** Funcionários de RH perdem horas digitando dados de fotos de RGs e CPFs enviadas pelos candidatos.
 * **Erro de digitação:** Um número de CPF errado no sistema trava a geração do contrato, atrasa o exame admissional e gera um efeito dominó de burocracia.
-* **Risco de LGPD:** Documentos sensíveis ficam "soltos" em pastas locais ou e-mails antes de chegarem ao banco de dados oficial README.md].
+* **Risco de LGPD:** Documentos sensíveis ficam soltos em pastas locais ou e-mails antes de chegarem ao banco de dados oficial.
 
 ###  A Solução com Document Intelligence
 Implementar um pipeline de **Verificação Documental Automática** via Java SDK. 
@@ -64,7 +64,7 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 1. **Captura:** O candidato sobe a foto do RG/CNH em um portal simples.
 2. **Análise de IA:** O **Document Intelligence** entra em cena, identifica o tipo de documento e extrai nome, CPF e data de nascimento em menos de 3 segundos README.md].
 3. **Validação automática:** O sistema Java cruza o CPF extraído com a base da Receita Federal.
-4. **Persistência segura:** Os dados estruturados são enviados diretamente para o **Azure Cosmos DB**, enquanto a imagem original é movida para um storage criptografado, reduzindo o tempo de exposição de dados sensíveis README.md].
+4. **Persistência segura:** Os dados estruturados são enviados diretamente para o **Azure Cosmos DB**, enquanto a imagem original é movida para um storage criptografado, reduzindo o tempo de exposição de dados sensíveis.
 
 ###  Resultados esperados
 * **Velocidade:** Redução do tempo de cadastro de 10 minutos para **5 segundos** por candidato.
@@ -83,6 +83,7 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
 
