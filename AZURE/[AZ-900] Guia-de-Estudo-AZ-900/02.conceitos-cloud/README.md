@@ -92,10 +92,45 @@ Entrega de uma aplicação completa via web. Toda a stack (Infra, SO, Runtime, c
 
 ![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/02.conceitos-cloud/responsabilidades.png)
 
+--
+
+## Infraestrutura de nuvem
+
+### Regiões e Pares de Região (Region Pairs)
+   
+`A real: Se um furacão, terremoto ou um estagiário atormentado derrubar uma região inteira, a outra segura o tranco. O Azure atualiza uma região por vez em cada par para garantir que você não fique offline. Se você não configurar o failover pro par, seu SLA é uma piada.`
+
+Na teoria, é lindo. Na prática, é o seu seguro de vida.
+
+Uma Região é um conjunto de datacenters próximos. O Par de Região é uma região irmã localizada a pelo menos 300 milhas (480 km) de distância.
+
+### Zonas de Disponibilidade (Availability Zones - AZ)
+Dentro de uma região, você tem as AZs. São datacenters isolados fisicamente, com energia, resfriamento e rede independentes.
+
+`A real: É redundância dentro da redundância. Se o datacenter A pegar fogo, o B e o C continuam rodando. Se sua aplicação não for zone-redundant, você está contando com a sorte. E engenheiro que se preze não conta com sorte.`
+
+### Conjuntos de Disponibilidade (Availability Sets)
+Aqui a gente desce pro nível do rack. Serve para proteger contra falhas de hardware local.
+
+Domínios de Atualização (UD): Quando a Microsoft decide atualizar o host, ela não reinicia tudo de uma vez. Ela faz por grupos.
+
+Domínios de Falha (FD): Separa suas VMs em racks diferentes com fontes de energia e switches diferentes.
+
+`A real: É para evitar que um cabo de rede mal encaixado ou uma atualização de segurança transforme seu serviço em um erro 404.`
+
+### Recuperação de Desastres (DR)
+O círculo no topo do desenho. É o plano de "deu merda geral".
+
+`A real: Não é só ter backup. É ter um RTO (Recovery Time Objective) e um RPO (Recovery Point Objective) definidos. Se você demora 10 horas para subir o sistema de novo, sua empresa já perdeu milhões e você provavelmente seu emprego.`
+
+![imagem](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BAZ-900%5D%20Guia-de-Estudo-AZ-900/02.conceitos-cloud/Regioes-2026-01-24-1416.png)
+
+
 
 
 ---
 [⬅️ Anterior](../01.guia-estudo/README.md) | [🏠 Home](../../../README.md) | [Próximo: 03. Azure Services ➡️](../03.Azure-services/README.md)
+
 
 
 
