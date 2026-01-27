@@ -30,7 +30,7 @@ Este guia será focado em:
 * **Dicas e materiais** 
 
 
-A certificação é o papel, mas o diferencial aqui é o olhar clínico sobre a ferramenta. Se você quer apenas decorar tabelas, a Microsoft Learn tem um bom conteúdo. Se quer entender, passe a ver os conceitos como algo que você irá precisar. Exemplo: "Por que preciso da nuvem?", talvez você não precise em projetos pequenos, mas comece a pensar em empresa. A minha empresa SolutionsJai precisa da nuvem porque o custo inicial de ter infraestrutura dentro do meu quintal sairia muito caro, então eu alugo os serviços da nuvem para que o provedor me de a potencia para eu ter escalabilidade, baixa latência, agilidade e elastidade para minhas aplicações e diversos outros serviços de computação. 
+A certificação é o papel, mas o diferencial aqui é o olhar clínico sobre a ferramenta. Se você quer apenas decorar tabelas, a Microsoft Learn tem um bom conteúdo. Se quer entender, passe a ver os conceitos como algo que você irá precisar. Exemplo: "Por que preciso da nuvem?", talvez você não precise em projetos pequenos, mas comece a pensar em empresa. A minha empresa SolutionsJai precisa da nuvem porque o custo inicial de ter infraestrutura dentro do meu quintal sairia muito caro, então eu alugo os serviços da nuvem para que o provedor me de a potencia para eu ter escalabilidade, baixa latência, agilidade e elastidade para minhas aplicações e diversos outros serviços de computação. Mas a SolutionsJai quer repatriar, cansei da nuvem rsrs
 
 > [!IMPORTANT]
 > 
