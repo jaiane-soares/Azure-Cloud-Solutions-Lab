@@ -40,9 +40,9 @@ A Azure extraiu os dados, mas eu extraí a essência. Enquanto o algoritmo busca
 ![Metadados Frios vs Sentimento](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BVIDEO-INDEXER%5D%20da-gritaria-ao-silencio/cenaQuadro1.png)
 
 * **O algoritmo:** "Identifiquei 3 segundos de silêncio e um rosto com 5,21 % de probabilidade de tristeza." 
-* **O humano:** Sente o desejo velado entre dois seres e olhares que carregam palavras que nunca serão ditas, a guerra entra o querer e a frustração, a inquietação do silencio e de um coração selvagem.
+* **O humano:** Sente o desejo velado entre dois seres e olhares que carregam palavras que nunca serão ditas, a guerra entre o querer e a frustração, a inquietação do silêncio e de um coração selvagem.
 
-> O que nos diferencia das máquinas não é a capacidade de processar, mas a capacidade de sentir o que **não foi dito**. É a experiência do sensorial e da análise de entrelinhas que algoritmos não podem calcular nem com todo a capacidade da nuvem da Microsoft. Além disso acredito que nenhuma outra IA, por mais eficiente e personalizada para isso, entenderia o silencio e a memoria.
+> O que nos diferencia das máquinas não é a capacidade de processar, mas a capacidade de sentir o que **não foi dito**. É a experiência do sensorial e da análise de entrelinhas que algoritmos não podem calcular nem com toda a capacidade da nuvem da Microsoft. Além disso acredito que nenhuma outra IA, por mais eficiente e personalizada para isso, entenderia o silencio e a memoria.
 
 ---
 
